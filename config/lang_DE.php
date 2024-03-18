@@ -61,4 +61,8 @@ define("AP", "Über ");
 
 define("FALC", "Einfache Version"); 
 
+define("TITLEACC", "Große Winkelgalerie");
+
+define("TLECAROU", "Die ausgestellten Werke heute :");
+
 ?>

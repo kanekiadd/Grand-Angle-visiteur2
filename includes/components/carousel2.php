@@ -23,7 +23,7 @@ if ( isset($_GET['lang'])) {
 }
 ?>
 
-
+<h3><?php echo TLECAROU; ?></h3>
 
 <div class="wrapper">
     <i id="left" class="fa-solid fa-angle-left"></i>

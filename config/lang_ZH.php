@@ -59,5 +59,8 @@ define("AP", "关于 ");
 
 define("FALC", "简易版本"); 
 
+define("TITLEACC", "大角度画廊");
+
+define("TLECAROU", "今日展出的作品 :");
 
 ?>

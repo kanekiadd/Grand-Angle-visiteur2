@@ -14,12 +14,11 @@ WHERE exposition.Date_Debut <= DATE_ADD(CURRENT_DATE(), INTERVAL 3 DAY) AND CURR
 $requeteArtNow = $db->query($sqlArtNow);
 $oeuvresNow = $requeteArtNow->fetchAll(PDO::FETCH_ASSOC);
 
-
-
 ?>
 
 
 <div class="top">
+    <h1><?php echo TITLEACC; ?></h1>
     <div class="sli-wra">
         <div class="slid">
             <img src="./assets/images/desktop.png" alt="artistes" class="" id="im1">

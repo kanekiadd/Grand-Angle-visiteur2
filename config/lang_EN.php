@@ -62,5 +62,7 @@ define("AP", "About...");
 
 define("FALC", "Simple version"); 
 
+define("TITLEACC", "Grand Angle Gallery");
 
+define("TLECAROU", "Featured artworks today :");
 ?>

@@ -261,7 +261,6 @@ input[type="submit"]:hover {
 }
 .wrapper {
   grid-column: 3/12;
-  grid-row: 7;
 }
 footer {
   padding: 70px 0;
@@ -803,6 +802,11 @@ margin-top: 125px;
 .top {
   grid-row: 1;
   padding: 20px;
+}
+.top h1{
+  text-align: center;
+  color: #FEE440;
+  margin: 40px;
 }
 .sli-wra{
   position: relative;

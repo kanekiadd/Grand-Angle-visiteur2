@@ -61,6 +61,9 @@ define("AP", "À propos");
 
 define("FALC", "Version FALC"); 
 
+define("TITLEACC", "Galerie Grand Angle");
+
+define("TLECAROU", "Les oeuvres à l'affiche ce jour :");
 
 
 ?>
