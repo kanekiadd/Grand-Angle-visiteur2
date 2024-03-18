@@ -65,4 +65,7 @@ define("FALC", "Simple version");
 define("TITLEACC", "Grand Angle Gallery");
 
 define("TLECAROU", "Featured artworks today :");
+
+define("CARDACC", "Welcome to Galerie Grand Angle! Since 1996, our association has been dedicated to promoting culture in Tours through a dedicated exhibition space. With our 1200 m² divided into three distinct areas, we offer local artists a dynamic platform to showcase their work. Join us to explore a diverse and vibrant panorama of contemporary art.
+");
 ?>

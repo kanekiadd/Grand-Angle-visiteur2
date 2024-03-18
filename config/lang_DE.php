@@ -65,4 +65,6 @@ define("TITLEACC", "Große Winkelgalerie");
 
 define("TLECAROU", "Die ausgestellten Werke heute :");
 
+define("CARDACC", "Willkommen in der Galerie Grand Angle! Seit 1996 setzt sich unser Verein für die Förderung der Kultur in Tours durch einen dedizierten Ausstellungsraum ein. Mit unseren 1200 m², aufgeteilt in drei verschiedene Bereiche, bieten wir lokalen Künstlern eine dynamische Plattform, um ihre Arbeit zu präsentieren. Kommen Sie vorbei und entdecken Sie ein vielfältiges und lebhaftes Panorama zeitgenössischer Kunst.
+");
 ?>

@@ -23,6 +23,13 @@ if ( isset($_GET['lang'])) {
 }
 ?>
 
+<div class="cardAccueil">
+  <h3><?php echo AP; ?></h3>
+  <p><?php echo CARDACC; ?></p>
+</div>
+
+
+
 <h3><?php echo TLECAROU; ?></h3>
 
 <div class="wrapper">

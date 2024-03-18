@@ -66,4 +66,6 @@ define("TITLEACC", "Galerie Grand Angle");
 define("TLECAROU", "Les oeuvres à l'affiche ce jour :");
 
 
+define("CARDACC", "Bienvenue à la Galerie Grand Angle ! Depuis 1996, notre association s'engage à promouvoir la culture à Tours, à travers un espace d'exposition dédié. Notre batiment de 1200 m², réparti en trois espaces, offre aux artistes une plateforme dynamique pour présenter leur travail. Rejoignez-nous pour découvrir un panorama diversifié et vibrant de l'art contemporain.
+");
 ?>
