@@ -136,7 +136,7 @@ main{
   }
   .menu_langues ul{
     display: flex;
-
+    flex-direction: column;
   }
   .menu_langues ul li{
     list-style: none;
@@ -609,7 +609,7 @@ color: #000000;
   display: block;
   grid-column: 3/11;
   grid-row: 3;
-  margin: 0 0 40px 40px;
+  margin: 0 0 40px 0px;
 
 }
 

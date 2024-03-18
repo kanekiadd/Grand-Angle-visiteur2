@@ -50,10 +50,10 @@ $langues = $requestLangue->fetchAll(PDO::FETCH_ASSOC);
             <div class="nav-menu">
               <a href="accueil.php" class="nav-branding-2"><img src="assets/images/2 1.png" alt=""></a>
 
-              <a href="listeExposition.php" class="nav-link"><?php echo EXPONAV; ?></a>
-              <a href="listeArtiste.php" class="nav-link"><?php echo ARTISTENAV; ?></a>
-              <a href="collection.php" class="nav-link"><?php echo COLLECNAV; ?></a>
-              <a href="#" class="nav-link"><?php echo CONTACTNAV; ?></a>
+              <a href="listeExposition.php" class="nav-link"><?php echo EXPONAV; ?></a><br>
+              <a href="listeArtiste.php" class="nav-link"><?php echo ARTISTENAV; ?></a><br>
+              <a href="collection.php" class="nav-link"><?php echo COLLECNAV; ?></a><br>
+              <a href="#" class="nav-link"><?php echo CONTACTNAV; ?></a><br><br>
 
 
               <div class="menu_langues">

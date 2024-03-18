@@ -127,6 +127,10 @@
         width: 200px;
         left: -240px;
       }
+      .active {
+        flex-direction: row;
+        width: 300px;
+      }
 }
   
 
