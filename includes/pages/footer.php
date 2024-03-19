@@ -17,8 +17,8 @@
         <div class="footer-col">
             <h4><?php echo AP; ?></h4>
             <ul>
-                <li><a href="#"><?php echo PDC; ?></a></li>
-                <li><a href="#"><?php echo ML; ?></a></li>
+                <li><a href="politique_confidentialite.php"><?php echo PDC; ?></a></li>
+                <li><a href="mentions_legales.php"><?php echo ML; ?></a></li>
 
             </ul>
         </div>
