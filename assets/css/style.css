@@ -92,7 +92,9 @@ main{
     align-items: center;
     gap: 40px;
   }
-  
+  .nav-liens{
+    text-decoration: none;
+  }
   .nav-link {
     width: 100%;
     transition: 0.3s;

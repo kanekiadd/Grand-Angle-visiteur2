@@ -41,6 +41,7 @@
   
     .nav-link {
       padding: 15px 0;
+      margin-bottom: 15px;
     }
   
     .login-link {
@@ -128,8 +129,11 @@
         left: -240px;
       }
       .active {
-        flex-direction: row;
         width: 300px;
+      }
+      .nav-liens{
+        text-decoration: none;
+        padding-bottom: 12px;
       }
 }
   
